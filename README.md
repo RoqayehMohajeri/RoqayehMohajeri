@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoqayehMohajeri
+- 👋 Hi, I’m @roqayehmohajeri
 - 👀 I’m interested in DS, ML, and Biotechnology
 - 🌱 I’m currently learning Machine Learning algorithms and soon I'll dive into Deep Learning.
 - 📫 How to reach me:
